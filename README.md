@@ -1,10 +1,11 @@
-# my-first-project.
-Hello! I am a first-year B.Tech CSE student.
+# My First Project
 
-## My goals 
-- Learn programing
-- learn git and github
-- build real-world projects
+Hello! I am a first-year B.Tech CSE student, and I am excited to learn and grow in the field of computer science.
+
+## My Goals
+- Learn programming
+- Learn Git and GitHub
+- Build real-world projects
 
 ## Current Project
-Learning GitHub from scratch
+Learning Git and GitHub from scratch while improving my coding skills and understanding of software development.
